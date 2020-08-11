@@ -1,0 +1,39 @@
+c:\users\batal\documents\visual studio 2015\Projects\piform\bin\Debug\piform.exe.config
+c:\users\batal\documents\visual studio 2015\Projects\piform\bin\Debug\piform.exe
+c:\users\batal\documents\visual studio 2015\Projects\piform\bin\Debug\piform.pdb
+c:\users\batal\documents\visual studio 2015\Projects\piform\obj\Debug\piform.csprojResolveAssemblyReference.cache
+c:\users\batal\documents\visual studio 2015\Projects\piform\obj\Debug\piform.Properties.Resources.resources
+c:\users\batal\documents\visual studio 2015\Projects\piform\obj\Debug\piform.csproj.GenerateResource.Cache
+c:\users\batal\documents\visual studio 2015\Projects\piform\obj\Debug\piform.exe
+c:\users\batal\documents\visual studio 2015\Projects\piform\obj\Debug\piform.pdb
+c:\users\batal\documents\visual studio 2015\Projects\piform\bin\Debug\M2Mqtt.Net.dll
+c:\users\batal\documents\visual studio 2015\Projects\piform\bin\Debug\M2Mqtt.Net.pdb
+c:\users\batal\documents\visual studio 2015\Projects\piform\obj\Debug\piform.Form2.resources
+C:\Users\batal\Documents\Visual Studio 2015\Projects\piform\obj\Debug\piform.Form1.resources
+K:\piform\bin\Debug\piform.exe.config
+K:\piform\obj\Debug\piform.exe
+K:\piform\obj\Debug\piform.pdb
+K:\piform\bin\Debug\piform.exe
+K:\piform\bin\Debug\piform.pdb
+K:\piform\bin\Debug\M2Mqtt.Net.dll
+K:\piform\bin\Debug\M2Mqtt.Net.pdb
+K:\piform\obj\Debug\piform.csprojResolveAssemblyReference.cache
+K:\piform\obj\Debug\piform.Form1.resources
+K:\piform\obj\Debug\piform.Form2.resources
+K:\piform\obj\Debug\piform.Properties.Resources.resources
+K:\piform\obj\Debug\piform.csproj.GenerateResource.Cache
+F:\piform\bin\Debug\piform.exe.config
+F:\piform\obj\Debug\piform.exe
+F:\piform\obj\Debug\piform.pdb
+F:\piform\bin\Debug\piform.exe
+F:\piform\bin\Debug\piform.pdb
+F:\piform\bin\Debug\M2Mqtt.Net.dll
+F:\piform\bin\Debug\M2Mqtt.Net.pdb
+F:\piform\obj\Debug\piform.csprojResolveAssemblyReference.cache
+F:\piform\obj\Debug\piform.Form1.resources
+F:\piform\obj\Debug\piform.Form2.resources
+F:\piform\obj\Debug\piform.Properties.Resources.resources
+F:\piform\obj\Debug\piform.csproj.GenerateResource.Cache
+C:\Users\batal\Desktop\IoT_6조_스마트주차장(이윤수,조용태)\키오스크(라즈베리파이)\bin\Debug\piform.exe.config
+C:\Users\batal\Desktop\IoT_6조_스마트주차장(이윤수,조용태)\키오스크(라즈베리파이)\obj\Debug\piform.exe
+C:\Users\batal\Desktop\IoT_6조_스마트주차장(이윤수,조용태)\키오스크(라즈베리파이)\obj\Debug\piform.pdb

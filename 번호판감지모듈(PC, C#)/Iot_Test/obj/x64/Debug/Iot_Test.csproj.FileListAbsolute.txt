@@ -1,0 +1,328 @@
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\dll\x86\opencv_ffmpeg400.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\dll\x64\opencv_ffmpeg400_64.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\x64\opencv_world340.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_cpu.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_gpu.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\x64\pthreadVC2.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\x64\pthreadGC2.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\x64\msvcr100.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.exe
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.pdb
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\Alturos.Yolo.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.pdb
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.xml
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.pdb
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.xml
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.pdb
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.xml
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.pdb
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.xml
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.g.resources
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.exe
+c:\users\user\documents\visual studio 2015\Projects\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.pdb
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.exe.config
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.exe
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.pdb
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\dll\x86\opencv_ffmpeg400.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\dll\x64\opencv_ffmpeg400_64.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\opencv_world340.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_cpu.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_gpu.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\pthreadVC2.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\pthreadGC2.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\msvcr100.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.exe
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.pdb
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\Alturos.Yolo.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.pdb
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.xml
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.pdb
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.xml
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.pdb
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.xml
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.pdb
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.xml
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.csprojResolveAssemblyReference.cache
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\MainWindow.g.cs
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\App.g.cs
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.cache
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.lref
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\MainWindow.baml
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.g.resources
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.Properties.Resources.resources
+G:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.csproj.GenerateResource.Cache
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.exe.config
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.exe
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.pdb
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\opencv_world340.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_cpu.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_gpu.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\pthreadVC2.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\pthreadGC2.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\x64\msvcr100.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.exe
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.pdb
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\Alturos.Yolo.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.pdb
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.xml
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.pdb
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.xml
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.pdb
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.xml
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.pdb
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.xml
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.csprojResolveAssemblyReference.cache
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\MainWindow.g.cs
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\App.g.cs
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.cache
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.lref
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\MainWindow.baml
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.g.resources
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.Properties.Resources.resources
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.csproj.GenerateResource.Cache
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\M2Mqtt.Net.dll
+E:\자동차 번호판\weights\Iot_Test\Iot_Test\bin\x64\Debug\M2Mqtt.Net.pdb
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.exe.config
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.exe
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.pdb
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\x64\opencv_world340.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_cpu.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_gpu.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\x64\pthreadVC2.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\x64\pthreadGC2.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\x64\msvcr100.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.exe
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\Iot_Test.pdb
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\Alturos.Yolo.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\M2Mqtt.Net.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\M2Mqtt.Net.pdb
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.pdb
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.pdb
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.csprojResolveAssemblyReference.cache
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\MainWindow.g.cs
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\App.g.cs
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.cache
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.lref
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\MainWindow.baml
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.g.resources
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.Properties.Resources.resources
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test.csproj.GenerateResource.Cache
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\Tesseract.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\x64\liblept172.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\x64\libtesseract304.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\x86\liblept172.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\x86\libtesseract304.dll
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\bin\x64\Debug\Tesseract.xml
+C:\Users\batal\Desktop\Iot_Test\Iot_Test\obj\x64\Debug\Iot_Test_Content.g.cs
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\Iot_Test.exe.config
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\Iot_Test.exe
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\Iot_Test.pdb
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\Iot_Test.csprojResolveAssemblyReference.cache
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\MainWindow.g.cs
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\App.g.cs
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\Iot_Test_Content.g.cs
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.cache
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.lref
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\x64\liblept172.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\x64\libtesseract304.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\x86\liblept172.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\x86\libtesseract304.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\Iot_Test.exe
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\Iot_Test.pdb
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\M2Mqtt.Net.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\Tesseract.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\M2Mqtt.Net.pdb
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\Tesseract.xml
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\MainWindow.baml
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\Iot_Test.g.resources
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\Iot_Test.Properties.Resources.resources
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\obj\x64\Debug\Iot_Test.csproj.GenerateResource.Cache
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\msvcp120.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\msvcr120.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_core2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_video2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\msvcp120.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\msvcr120.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_core2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_video2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\x64\opencv_world340.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_cpu.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_gpu.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\x64\pthreadVC2.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\x64\pthreadGC2.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\x64\msvcr100.dll
+C:\Users\batal\Desktop\Iot_Test - 복사본\Iot_Test\bin\x64\Debug\Alturos.Yolo.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\Iot_Test.exe.config
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\Iot_Test.exe
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\Iot_Test.pdb
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\msvcp120.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\msvcr120.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_core2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_video2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\msvcp120.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\msvcr120.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_core2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_video2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\x64\opencv_world340.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_cpu.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\x64\yolo_cpp_dll_gpu.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\x64\pthreadVC2.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\x64\pthreadGC2.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\x64\msvcr100.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\x64\liblept172.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\x64\libtesseract304.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\x86\liblept172.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\x86\libtesseract304.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\Iot_Test.exe
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\Iot_Test.pdb
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\Alturos.Yolo.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\M2Mqtt.Net.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\Tesseract.dll
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\M2Mqtt.Net.pdb
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\bin\x64\Debug\Tesseract.xml
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\Iot_Test.csprojResolveAssemblyReference.cache
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\MainWindow.g.cs
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\App.g.cs
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\Iot_Test_Content.g.cs
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.cache
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\Iot_Test_MarkupCompile.lref
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\MainWindow.baml
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\Iot_Test.g.resources
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\Iot_Test.Properties.Resources.resources
+C:\Users\batal\Desktop\Iot_PC_detecter\Iot_Test\obj\x64\Debug\Iot_Test.csproj.GenerateResource.Cache
+C:\Users\batal\Desktop\IoT_6조_스마트주차장(이윤수,조용태)\번호판감지모듈(PC)\Iot_Test\bin\x64\Debug\Iot_Test.exe.config
+C:\Users\batal\Desktop\IoT_6조_스마트주차장(이윤수,조용태)\번호판감지모듈(PC)\Iot_Test\obj\x64\Debug\Iot_Test.exe
+C:\Users\batal\Desktop\IoT_6조_스마트주차장(이윤수,조용태)\번호판감지모듈(PC)\Iot_Test\obj\x64\Debug\Iot_Test.pdb
